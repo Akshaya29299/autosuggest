@@ -41,3 +41,15 @@ h1 {
 body{
     margin: 0px;
 }
+
+.card{
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left:650px;
+}
+
+.card img{
+    width: 100%;
+}
