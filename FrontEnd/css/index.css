@@ -1,3 +1,19 @@
 h1 {
     color: red;
+}/*tag styling*/
+
+#heading-2{
+    color: blue;
+}/*id styling*/
+
+.Heading{
+    color: crimson;
+}/*class styling*/
+
+.para{
+    border: 2px;/*border size*/
+    border-color: black;/*border coloring*/
+    border-style: solid;/*border styling*/
+    padding: 20px;/*gap between content and border*/
+    text-align: center;
 }
