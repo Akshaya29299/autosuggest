@@ -17,3 +17,27 @@ h1 {
     padding: 20px;/*gap between content and border*/
     text-align: center;
 }
+
+.NavBar{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    background-color:rgb(222, 135, 180);
+    text-align: center;
+}
+
+.NavBar a {
+    color: darkmagenta;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.NavBar a:hover {
+    background-color: rgb(244, 241, 241);
+    color: black;
+}
+
+body{
+    margin: 0px;
+}
