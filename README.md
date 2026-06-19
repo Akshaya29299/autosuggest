@@ -3,6 +3,7 @@
 Verification of git set-up
 
 changes flow for Pushing
+
 Using UI
 1. add(plus button)
 2. commit with message
