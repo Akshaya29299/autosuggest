@@ -2,6 +2,9 @@ h1 {
     color: red;
 }/*tag styling*/
 
+#BI{
+    color: black;
+}
 #heading-2{
     color: blue;
 }/*id styling*/
@@ -57,3 +60,4 @@ body{
 .card button{
     margin-bottom: 20px;
 }
+
