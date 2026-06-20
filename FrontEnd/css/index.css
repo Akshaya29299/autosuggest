@@ -53,3 +53,10 @@ body{
 .card img{
     width: 100%;
 }
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
