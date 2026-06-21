@@ -1,0 +1,63 @@
+h1 {
+    color: red;
+}/*tag styling*/
+
+#BI{
+    color: black;
+}
+#heading-2{
+    color: blue;
+}/*id styling*/
+
+.Heading{
+    color: crimson;
+}/*class styling*/
+
+.para{
+    border: 2px;/*border size*/
+    border-color: black;/*border coloring*/
+    border-style: solid;/*border styling*/
+    padding: 20px;/*gap between content and border*/
+    text-align: center;
+}
+
+.NavBar{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    background-color:rgb(222, 135, 180);
+    text-align: center;
+}
+
+.NavBar a {
+    color: darkmagenta;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.NavBar a:hover {
+    background-color: rgb(244, 241, 241);
+    color: black;
+}
+
+body{
+    margin: 0px;
+}
+
+.card{
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left:600px;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card button{
+    margin-bottom: 20px;
+}
+

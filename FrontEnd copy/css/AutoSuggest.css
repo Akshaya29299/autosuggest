@@ -1,0 +1,45 @@
+.gear{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.pill{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.BI{
+    color: blueviolet;
+}
+.pill1{
+    
+    color: green;
+}
+
+.Para{
+    color: grey;
+}
+
+.Main-Content{
+    text-align: center;
+}
+
+.TextBox{
+    border: 2px solid rgb(144, 128, 128);
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.lens{
+    position: relative;
+    left: 27px;
+}
+
+
+
+
